@@ -8,10 +8,10 @@ On the getting started page, there is an option to open GitHub repository.
 After selecting that option I linked my GitHub account with Visual Studio Code.
 
 I made a test demo readme file and tried commiting changes but in order to do that I had to first setup my defalt identity. To do that I looked at the output tab of the console and it told me to run the commands 
-
-  git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
-
+'''
+ git config --global user.email "you@example.com"
+ git config --global user.name "Your Name"
+'''
 on the termianl.
 
 After accomplishing that, I was able to commit the changes and successfully committed code from VS Code to GitHub
