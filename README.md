@@ -34,3 +34,5 @@ I wanted to get alerts at 25%,50%,75% and 90% of the budget used. Since, it is e
 Finally I added my email and hit create. Language was set to default.
 
 Now that I had set up a safeguard to protect my expenditure, it was time to get started on the challenge.
+
+##
