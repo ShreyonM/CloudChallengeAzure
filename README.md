@@ -35,7 +35,7 @@ Finally I added my email and hit create. Language was set to default.
 
 Now that I had set up a safeguard to protect my expenditure, it was time to get started on the challenge.
 
-##Creating The HTML file And Styling it With CSS
+## Creating The HTML file And Styling it With CSS
 
 I made a html page with 3 buttons resembling the youtube subscrive button, youtube join button and a tweet button.
 The html code is in the repository under HtmlCssFile.
