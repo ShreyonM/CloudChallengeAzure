@@ -38,6 +38,6 @@ Now that I had set up a safeguard to protect my expenditure, it was time to get 
 ## Creating The HTML file And Styling it With CSS
 
 I made a html page with 3 buttons resembling the youtube subscrive button, youtube join button and a tweet button.
-The html code is in the repository under website.
+The html code is in the repository under buttons.html (https://github.com/ShreyonM/CloudChallengeAzure/blob/main/buttons.html).
 
 ##
