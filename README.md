@@ -46,7 +46,7 @@ The html code is in the repository under buttons.html (https://github.com/Shreyo
 * Create a storage account
 ![Screenshot 2023-01-21 at 5 19 52 PM](https://user-images.githubusercontent.com/122833798/213889714-3d89d8fc-94df-4984-8a8c-e482e49506a1.png)
 
-* Search static website on the blade search bar in the storage account
+* Search static website on the blade search bar in the storage account                                       
 ![Screenshot 2023-01-21 at 5 38 29 PM](https://user-images.githubusercontent.com/122833798/213889765-4c1fc7d7-323e-4dcb-922a-4ef577e3622b.png)
 * Select "enabled" and add index document name as buttons.html and error document path blank. Hit save. 
 This gives us a the primary endpoint. We can use this link to find our static webiste on the public web but on pasting the link you will see an error message
